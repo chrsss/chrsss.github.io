@@ -136,6 +136,18 @@ input, select, textarea {
 		font-weight: bold;
 	}
 
+	custom {
+		font-weight: 400;
+		font-size: 0.8em;
+		line-height: 1.65em;
+		color: #565555;
+	}
+	custom0 {
+		font-weight: 500;
+		font-size: 0.9em;
+		color: #000000;
+	}
+
 	a {
 		-moz-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
